@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\OSISP\Lab4\Lab4\Source.cpp(85,25): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+D:\OSISP\Lab4\Lab4\Source.cpp(94,23): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+D:\OSISP\Lab4\Lab4\Source.cpp(119,25): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+D:\OSISP\Lab4\Lab4\Source.cpp(123,23): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+  Lab4.vcxproj -> D:\OSISP\Lab4\Lab4\x64\Debug\Lab4.exe

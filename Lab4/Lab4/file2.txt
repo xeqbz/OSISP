@@ -1,0 +1,3 @@
+Writer 1 wrote data at 680740937
+Writer 0 wrote data at 680741640
+Writer 2 wrote data at 680742359
