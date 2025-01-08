@@ -1,0 +1,3 @@
+﻿  server.cpp
+D:\OSISP\Lab5\server\server.cpp(43,15): warning C4101: 'iSendResult': unreferenced local variable
+  server.vcxproj -> D:\OSISP\Lab5\server\x64\Debug\server.exe
